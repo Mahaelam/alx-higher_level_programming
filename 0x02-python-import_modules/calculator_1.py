@@ -46,6 +46,7 @@ def div(a, b):
         b: second integer
 
     Returns:
-        The return value. a / b
+	 The return value. a / b
     """
     return int(a / b)
+
